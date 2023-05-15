@@ -5,5 +5,9 @@ link de la aplicación: https://appollonotes.netlify.app/
 
 link repo frontend desplegado: https://github.com/danielhd20/frontendAppollonotes
 
+link repo backend desplegado: https://github.com/danielhd20/backendapollonotes
+
 Manual de usuario disponible en la carpeta de anexos
+
+
 ![image](https://github.com/danielhd20/trabajo-de-grado/assets/104640617/c560f365-3100-4bbc-a6a8-f79fd1c8c313)
